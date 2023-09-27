@@ -1,0 +1,3482 @@
+[
+    {
+     "ID": 0,
+     "Band": "Band 2",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "Sublocation1",
+     "latitude": 19.06056,
+     "longitude": 72.84886,
+     "throughput": 9.74449
+    },
+    {
+     "ID": 1,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "Sublocation1",
+     "latitude": 19.06056,
+     "longitude": 72.84886,
+     "throughput": 8.29233
+    },
+    {
+     "ID": 2,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "Sublocation1",
+     "latitude": 19.05495,
+     "longitude": 72.85091,
+     "throughput": 5.73715
+    },
+    {
+     "ID": 3,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "Sublocation1",
+     "latitude": 19.05495,
+     "longitude": 72.85091,
+     "throughput": 9.31634
+    },
+    {
+     "ID": 4,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "Sublocation1",
+     "latitude": 19.05839,
+     "longitude": 72.85201,
+     "throughput": 5.70553
+    },
+    {
+     "ID": 5,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "Sublocation1",
+     "latitude": 19.05839,
+     "longitude": 72.85201,
+     "throughput": 5.50392
+    },
+    {
+     "ID": 6,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "Sublocation1",
+     "latitude": 19.05588,
+     "longitude": 72.84459,
+     "throughput": 8.17583
+    },
+    {
+     "ID": 7,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "Sublocation1",
+     "latitude": 19.05588,
+     "longitude": 72.84459,
+     "throughput": 8.1794
+    },
+    {
+     "ID": 8,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "Sublocation1",
+     "latitude": 19.0574,
+     "longitude": 72.85423,
+     "throughput": 6.43322
+    },
+    {
+     "ID": 9,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "Sublocation1",
+     "latitude": 19.0574,
+     "longitude": 72.85423,
+     "throughput": 8.83898
+    },
+    {
+     "ID": 10,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "Sublocation1",
+     "latitude": 19.0525244,
+     "longitude": 72.8481625,
+     "throughput": 5.25657
+    },
+    {
+     "ID": 11,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "Sublocation1",
+     "latitude": 19.0525244,
+     "longitude": 72.8481625,
+     "throughput": 8.70065
+    },
+    {
+     "ID": 12,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "Sublocation1",
+     "latitude": 19.04889,
+     "longitude": 72.855,
+     "throughput": 5.10543
+    },
+    {
+     "ID": 13,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "Sublocation1",
+     "latitude": 19.04889,
+     "longitude": 72.855,
+     "throughput": 6.60911
+    },
+    {
+     "ID": 14,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "Sublocation1",
+     "latitude": 19.05619,
+     "longitude": 72.85227,
+     "throughput": 5.5129
+    },
+    {
+     "ID": 15,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "Sublocation1",
+     "latitude": 19.05619,
+     "longitude": 72.85227,
+     "throughput": 8.57392
+    },
+    {
+     "ID": 16,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "Sublocation1",
+     "latitude": 19.0562838,
+     "longitude": 72.843565,
+     "throughput": 8.99337
+    },
+    {
+     "ID": 17,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "Sublocation1",
+     "latitude": 19.0562838,
+     "longitude": 72.843565,
+     "throughput": 7.60328
+    },
+    {
+     "ID": 18,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "Sublocation1",
+     "latitude": 19.063773,
+     "longitude": 72.84968,
+     "throughput": 7.62474
+    },
+    {
+     "ID": 19,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "Sublocation1",
+     "latitude": 19.063773,
+     "longitude": 72.84968,
+     "throughput": 9.0633
+    },
+    {
+     "ID": 20,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "Sublocation1",
+     "latitude": 19.05529,
+     "longitude": 72.842795,
+     "throughput": 5.32275
+    },
+    {
+     "ID": 21,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "Sublocation1",
+     "latitude": 19.05529,
+     "longitude": 72.842795,
+     "throughput": 7.95309
+    },
+    {
+     "ID": 22,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "Sublocation1",
+     "latitude": 19.0547547,
+     "longitude": 72.8510816,
+     "throughput": 7.11871
+    },
+    {
+     "ID": 23,
+     "Band": "Band 2",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "Sublocation1",
+     "latitude": 19.0547547,
+     "longitude": 72.8510816,
+     "throughput": 6.30981
+    },
+    {
+     "ID": 24,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "Sublocation1",
+     "latitude": 19.0555217,
+     "longitude": 72.8494239,
+     "throughput": 8.02697
+    },
+    {
+     "ID": 25,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "Sublocation1",
+     "latitude": 19.0555217,
+     "longitude": 72.8494239,
+     "throughput": 7.30024
+    },
+    {
+     "ID": 26,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "Sublocation1",
+     "latitude": 19.0546677,
+     "longitude": 72.8475436,
+     "throughput": 9.28908
+    },
+    {
+     "ID": 27,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "Sublocation1",
+     "latitude": 19.0546677,
+     "longitude": 72.8475436,
+     "throughput": 9.25734
+    },
+    {
+     "ID": 28,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "Sublocation1",
+     "latitude": 19.05661,
+     "longitude": 72.8418275,
+     "throughput": 9.63002
+    },
+    {
+     "ID": 29,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "Sublocation1",
+     "latitude": 19.05661,
+     "longitude": 72.8418275,
+     "throughput": 8.71759
+    },
+    {
+     "ID": 30,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "Sublocation1",
+     "latitude": 19.05985,
+     "longitude": 72.85041,
+     "throughput": 8.95361
+    },
+    {
+     "ID": 31,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "Sublocation1",
+     "latitude": 19.05985,
+     "longitude": 72.85041,
+     "throughput": 5.98116
+    },
+    {
+     "ID": 32,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "Sublocation1",
+     "latitude": 19.05931,
+     "longitude": 72.8427,
+     "throughput": 7.30667
+    },
+    {
+     "ID": 33,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "Sublocation1",
+     "latitude": 19.05931,
+     "longitude": 72.8427,
+     "throughput": 9.38859
+    },
+    {
+     "ID": 34,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "Sublocation1",
+     "latitude": 19.05746,
+     "longitude": 72.84745,
+     "throughput": 9.7363
+    },
+    {
+     "ID": 35,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "Sublocation1",
+     "latitude": 19.05746,
+     "longitude": 72.84745,
+     "throughput": 5.68632
+    },
+    {
+     "ID": 36,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "Sublocation1",
+     "latitude": 19.05873,
+     "longitude": 72.85373,
+     "throughput": 7.57805
+    },
+    {
+     "ID": 37,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "Sublocation1",
+     "latitude": 19.05873,
+     "longitude": 72.85373,
+     "throughput": 6.35799
+    },
+    {
+     "ID": 38,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "Sublocation1",
+     "latitude": 19.05261,
+     "longitude": 72.86572,
+     "throughput": 6.59984
+    },
+    {
+     "ID": 39,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "Sublocation1",
+     "latitude": 19.05261,
+     "longitude": 72.86572,
+     "throughput": 8.13325
+    },
+    {
+     "ID": 40,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "Sublocation1",
+     "latitude": 19.05046,
+     "longitude": 72.85715,
+     "throughput": 7.23828
+    },
+    {
+     "ID": 41,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "Sublocation1",
+     "latitude": 19.05046,
+     "longitude": 72.85715,
+     "throughput": 6.1764
+    },
+    {
+     "ID": 42,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "Sublocation1",
+     "latitude": 19.06027,
+     "longitude": 72.84608,
+     "throughput": 8.9198
+    },
+    {
+     "ID": 43,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "Sublocation1",
+     "latitude": 19.06027,
+     "longitude": 72.84608,
+     "throughput": 9.28023
+    },
+    {
+     "ID": 44,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "Sublocation1",
+     "latitude": 19.054965,
+     "longitude": 72.849148,
+     "throughput": 8.69047
+    },
+    {
+     "ID": 45,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "Sublocation1",
+     "latitude": 19.054965,
+     "longitude": 72.849148,
+     "throughput": 6.63931
+    },
+    {
+     "ID": 46,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation2",
+     "latitude": 19.06291,
+     "longitude": 72.84249,
+     "throughput": 5.47778
+    },
+    {
+     "ID": 47,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation2",
+     "latitude": 19.06291,
+     "longitude": 72.84249,
+     "throughput": 5.08549
+    },
+    {
+     "ID": 48,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation2",
+     "latitude": 19.06878,
+     "longitude": 72.8476,
+     "throughput": 8.58368
+    },
+    {
+     "ID": 49,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation2",
+     "latitude": 19.06878,
+     "longitude": 72.8476,
+     "throughput": 8.80891
+    },
+    {
+     "ID": 50,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation2",
+     "latitude": 19.0606,
+     "longitude": 72.8525,
+     "throughput": 5.56189
+    },
+    {
+     "ID": 51,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation2",
+     "latitude": 19.0606,
+     "longitude": 72.8525,
+     "throughput": 5.50174
+    },
+    {
+     "ID": 52,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation2",
+     "latitude": 19.0648,
+     "longitude": 72.8447,
+     "throughput": 7.89929
+    },
+    {
+     "ID": 53,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation2",
+     "latitude": 19.0648,
+     "longitude": 72.8447,
+     "throughput": 9.58326
+    },
+    {
+     "ID": 54,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation2",
+     "latitude": 19.0617808,
+     "longitude": 72.8444333,
+     "throughput": 6.96246
+    },
+    {
+     "ID": 55,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation2",
+     "latitude": 19.0617808,
+     "longitude": 72.8444333,
+     "throughput": 6.83102
+    },
+    {
+     "ID": 56,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation2",
+     "latitude": 19.0639758,
+     "longitude": 72.8427244,
+     "throughput": 6.62235
+    },
+    {
+     "ID": 57,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation2",
+     "latitude": 19.0639758,
+     "longitude": 72.8427244,
+     "throughput": 6.3924
+    },
+    {
+     "ID": 58,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation2",
+     "latitude": 19.0804122,
+     "longitude": 72.8433361,
+     "throughput": 6.60576
+    },
+    {
+     "ID": 59,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation2",
+     "latitude": 19.0804122,
+     "longitude": 72.8433361,
+     "throughput": 8.96864
+    },
+    {
+     "ID": 60,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation2",
+     "latitude": 19.07995,
+     "longitude": 72.84479,
+     "throughput": 9.91067
+    },
+    {
+     "ID": 61,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation2",
+     "latitude": 19.07995,
+     "longitude": 72.84479,
+     "throughput": 6.80702
+    },
+    {
+     "ID": 62,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation2",
+     "latitude": 19.0677236,
+     "longitude": 72.8500586,
+     "throughput": 5.65282
+    },
+    {
+     "ID": 63,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation2",
+     "latitude": 19.0677236,
+     "longitude": 72.8500586,
+     "throughput": 9.39421
+    },
+    {
+     "ID": 64,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation2",
+     "latitude": 19.0728981,
+     "longitude": 72.8463258,
+     "throughput": 9.47041
+    },
+    {
+     "ID": 65,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation2",
+     "latitude": 19.0728981,
+     "longitude": 72.8463258,
+     "throughput": 8.57905
+    },
+    {
+     "ID": 66,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation2",
+     "latitude": 19.06974,
+     "longitude": 72.84524,
+     "throughput": 9.61103
+    },
+    {
+     "ID": 67,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation2",
+     "latitude": 19.06974,
+     "longitude": 72.84524,
+     "throughput": 7.60794
+    },
+    {
+     "ID": 68,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation2",
+     "latitude": 19.06665,
+     "longitude": 72.84857,
+     "throughput": 9.69674
+    },
+    {
+     "ID": 69,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation2",
+     "latitude": 19.06665,
+     "longitude": 72.84857,
+     "throughput": 9.74436
+    },
+    {
+     "ID": 70,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation2",
+     "latitude": 19.0658719,
+     "longitude": 72.8443733,
+     "throughput": 5.26129
+    },
+    {
+     "ID": 71,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation2",
+     "latitude": 19.0658719,
+     "longitude": 72.8443733,
+     "throughput": 6.81049
+    },
+    {
+     "ID": 72,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation2",
+     "latitude": 19.06442,
+     "longitude": 72.85118,
+     "throughput": 9.2146
+    },
+    {
+     "ID": 73,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation2",
+     "latitude": 19.06442,
+     "longitude": 72.85118,
+     "throughput": 9.90854
+    },
+    {
+     "ID": 74,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation2",
+     "latitude": 19.07702,
+     "longitude": 72.84452,
+     "throughput": 6.51117
+    },
+    {
+     "ID": 75,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation2",
+     "latitude": 19.07702,
+     "longitude": 72.84452,
+     "throughput": 8.56037
+    },
+    {
+     "ID": 76,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation2",
+     "latitude": 19.0685327,
+     "longitude": 72.8428866,
+     "throughput": 8.33317
+    },
+    {
+     "ID": 77,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation2",
+     "latitude": 19.0685327,
+     "longitude": 72.8428866,
+     "throughput": 5.92202
+    },
+    {
+     "ID": 78,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation2",
+     "latitude": 19.0798194,
+     "longitude": 72.8467889,
+     "throughput": 9.89641
+    },
+    {
+     "ID": 79,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation2",
+     "latitude": 19.0798194,
+     "longitude": 72.8467889,
+     "throughput": 7.48569
+    },
+    {
+     "ID": 80,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation2",
+     "latitude": 19.0741236,
+     "longitude": 72.8466742,
+     "throughput": 8.07682
+    },
+    {
+     "ID": 81,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation2",
+     "latitude": 19.0741236,
+     "longitude": 72.8466742,
+     "throughput": 9.66948
+    },
+    {
+     "ID": 82,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation2",
+     "latitude": 19.0776187,
+     "longitude": 72.846756,
+     "throughput": 8.53091
+    },
+    {
+     "ID": 83,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation2",
+     "latitude": 19.0776187,
+     "longitude": 72.846756,
+     "throughput": 6.82504
+    },
+    {
+     "ID": 84,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation2",
+     "latitude": 19.06634,
+     "longitude": 72.84349,
+     "throughput": 9.00328
+    },
+    {
+     "ID": 85,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation2",
+     "latitude": 19.06634,
+     "longitude": 72.84349,
+     "throughput": 8.64193
+    },
+    {
+     "ID": 86,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation2",
+     "latitude": 19.06674,
+     "longitude": 72.84629,
+     "throughput": 7.68064
+    },
+    {
+     "ID": 87,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation2",
+     "latitude": 19.06674,
+     "longitude": 72.84629,
+     "throughput": 7.76438
+    },
+    {
+     "ID": 88,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation2",
+     "latitude": 19.0637286,
+     "longitude": 72.8532699,
+     "throughput": 9.36365
+    },
+    {
+     "ID": 89,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation2",
+     "latitude": 19.0637286,
+     "longitude": 72.8532699,
+     "throughput": 6.24904
+    },
+    {
+     "ID": 90,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation2",
+     "latitude": 19.0729722,
+     "longitude": 72.8439897,
+     "throughput": 9.39852
+    },
+    {
+     "ID": 91,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation2",
+     "latitude": 19.0729722,
+     "longitude": 72.8439897,
+     "throughput": 5.7209
+    },
+    {
+     "ID": 92,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation2",
+     "latitude": 19.0676402,
+     "longitude": 72.8485872,
+     "throughput": 6.73173
+    },
+    {
+     "ID": 93,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation2",
+     "latitude": 19.0676402,
+     "longitude": 72.8485872,
+     "throughput": 7.00651
+    },
+    {
+     "ID": 94,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation2",
+     "latitude": 19.0648078,
+     "longitude": 72.8540072,
+     "throughput": 5.05178
+    },
+    {
+     "ID": 95,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation2",
+     "latitude": 19.0648078,
+     "longitude": 72.8540072,
+     "throughput": 7.95382
+    },
+    {
+     "ID": 96,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0663408,
+     "longitude": 72.8679405,
+     "throughput": 6.02482
+    },
+    {
+     "ID": 97,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0663408,
+     "longitude": 72.8679405,
+     "throughput": 7.25657
+    },
+    {
+     "ID": 98,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0673647,
+     "longitude": 72.8683925,
+     "throughput": 7.65949
+    },
+    {
+     "ID": 99,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0673647,
+     "longitude": 72.8683925,
+     "throughput": 8.49182
+    },
+    {
+     "ID": 100,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.07147,
+     "longitude": 72.86476,
+     "throughput": 8.82085
+    },
+    {
+     "ID": 101,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.07147,
+     "longitude": 72.86476,
+     "throughput": 5.53106
+    },
+    {
+     "ID": 102,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0596758,
+     "longitude": 72.8710805,
+     "throughput": 7.2042
+    },
+    {
+     "ID": 103,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0596758,
+     "longitude": 72.8710805,
+     "throughput": 7.7786
+    },
+    {
+     "ID": 104,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.06395,
+     "longitude": 72.85999,
+     "throughput": 9.37639
+    },
+    {
+     "ID": 105,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.06395,
+     "longitude": 72.85999,
+     "throughput": 7.25791
+    },
+    {
+     "ID": 106,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.06408,
+     "longitude": 72.86504,
+     "throughput": 5.49576
+    },
+    {
+     "ID": 107,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.06408,
+     "longitude": 72.86504,
+     "throughput": 6.36484
+    },
+    {
+     "ID": 108,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0669,
+     "longitude": 72.86811,
+     "throughput": 9.98411
+    },
+    {
+     "ID": 109,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0669,
+     "longitude": 72.86811,
+     "throughput": 8.58863
+    },
+    {
+     "ID": 110,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.06391,
+     "longitude": 72.85634,
+     "throughput": 6.2743
+    },
+    {
+     "ID": 111,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.06391,
+     "longitude": 72.85634,
+     "throughput": 9.32237
+    },
+    {
+     "ID": 112,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0583986,
+     "longitude": 72.8618344,
+     "throughput": 6.82822
+    },
+    {
+     "ID": 113,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0583986,
+     "longitude": 72.8618344,
+     "throughput": 9.83109
+    },
+    {
+     "ID": 114,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0662,
+     "longitude": 72.86471,
+     "throughput": 8.20501
+    },
+    {
+     "ID": 115,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0662,
+     "longitude": 72.86471,
+     "throughput": 5.46564
+    },
+    {
+     "ID": 116,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.06685,
+     "longitude": 72.87085,
+     "throughput": 5.03049
+    },
+    {
+     "ID": 117,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.06685,
+     "longitude": 72.87085,
+     "throughput": 5.99135
+    },
+    {
+     "ID": 118,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.07437,
+     "longitude": 72.87251,
+     "throughput": 8.36798
+    },
+    {
+     "ID": 119,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.07437,
+     "longitude": 72.87251,
+     "throughput": 9.33913
+    },
+    {
+     "ID": 120,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0723186,
+     "longitude": 72.8552091,
+     "throughput": 8.7448
+    },
+    {
+     "ID": 121,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0723186,
+     "longitude": 72.8552091,
+     "throughput": 7.07188
+    },
+    {
+     "ID": 122,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.056963,
+     "longitude": 72.869453,
+     "throughput": 9.23758
+    },
+    {
+     "ID": 123,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.056963,
+     "longitude": 72.869453,
+     "throughput": 9.14422
+    },
+    {
+     "ID": 124,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0730278,
+     "longitude": 72.8728533,
+     "throughput": 5.13116
+    },
+    {
+     "ID": 125,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0730278,
+     "longitude": 72.8728533,
+     "throughput": 8.84408
+    },
+    {
+     "ID": 126,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.07132,
+     "longitude": 72.86837,
+     "throughput": 8.91669
+    },
+    {
+     "ID": 127,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.07132,
+     "longitude": 72.86837,
+     "throughput": 7.05518
+    },
+    {
+     "ID": 128,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.06173,
+     "longitude": 72.8602,
+     "throughput": 5.73551
+    },
+    {
+     "ID": 129,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.06173,
+     "longitude": 72.8602,
+     "throughput": 5.81464
+    },
+    {
+     "ID": 130,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0610736,
+     "longitude": 72.8631592,
+     "throughput": 8.33529
+    },
+    {
+     "ID": 131,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0610736,
+     "longitude": 72.8631592,
+     "throughput": 6.59375
+    },
+    {
+     "ID": 132,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0631838,
+     "longitude": 72.85755,
+     "throughput": 7.9139
+    },
+    {
+     "ID": 133,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0631838,
+     "longitude": 72.85755,
+     "throughput": 6.15429
+    },
+    {
+     "ID": 134,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0628594,
+     "longitude": 72.8654994,
+     "throughput": 8.04168
+    },
+    {
+     "ID": 135,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0628594,
+     "longitude": 72.8654994,
+     "throughput": 5.48788
+    },
+    {
+     "ID": 136,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0646266,
+     "longitude": 72.86743,
+     "throughput": 5.68135
+    },
+    {
+     "ID": 137,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0646266,
+     "longitude": 72.86743,
+     "throughput": 9.03345
+    },
+    {
+     "ID": 138,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.06574,
+     "longitude": 72.8749117,
+     "throughput": 9.24371
+    },
+    {
+     "ID": 139,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.06574,
+     "longitude": 72.8749117,
+     "throughput": 5.81246
+    },
+    {
+     "ID": 140,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0695316,
+     "longitude": 72.8598622,
+     "throughput": 8.95775
+    },
+    {
+     "ID": 141,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0695316,
+     "longitude": 72.8598622,
+     "throughput": 7.59109
+    },
+    {
+     "ID": 142,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0726488,
+     "longitude": 72.8708972,
+     "throughput": 9.39689
+    },
+    {
+     "ID": 143,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0726488,
+     "longitude": 72.8708972,
+     "throughput": 5.23925
+    },
+    {
+     "ID": 144,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0690919,
+     "longitude": 72.8545725,
+     "throughput": 5.2869
+    },
+    {
+     "ID": 145,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0690919,
+     "longitude": 72.8545725,
+     "throughput": 9.0533
+    },
+    {
+     "ID": 146,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0711006,
+     "longitude": 72.8750447,
+     "throughput": 6.8336
+    },
+    {
+     "ID": 147,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0711006,
+     "longitude": 72.8750447,
+     "throughput": 7.72559
+    },
+    {
+     "ID": 148,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.06835,
+     "longitude": 72.87488,
+     "throughput": 8.93712
+    },
+    {
+     "ID": 149,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.06835,
+     "longitude": 72.87488,
+     "throughput": 7.22013
+    },
+    {
+     "ID": 150,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.05493,
+     "longitude": 72.86754,
+     "throughput": 6.42888
+    },
+    {
+     "ID": 151,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.05493,
+     "longitude": 72.86754,
+     "throughput": 7.05749
+    },
+    {
+     "ID": 152,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0630353,
+     "longitude": 72.8593392,
+     "throughput": 5.34553
+    },
+    {
+     "ID": 153,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0630353,
+     "longitude": 72.8593392,
+     "throughput": 5.77093
+    },
+    {
+     "ID": 154,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0576861,
+     "longitude": 72.8703167,
+     "throughput": 6.9999
+    },
+    {
+     "ID": 155,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0576861,
+     "longitude": 72.8703167,
+     "throughput": 8.54532
+    },
+    {
+     "ID": 156,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0701889,
+     "longitude": 72.8715789,
+     "throughput": 9.10893
+    },
+    {
+     "ID": 157,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0701889,
+     "longitude": 72.8715789,
+     "throughput": 6.48641
+    },
+    {
+     "ID": 158,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.06043,
+     "longitude": 72.86288,
+     "throughput": 6.28279
+    },
+    {
+     "ID": 159,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.06043,
+     "longitude": 72.86288,
+     "throughput": 9.24068
+    },
+    {
+     "ID": 160,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.07552,
+     "longitude": 72.87519,
+     "throughput": 6.10412
+    },
+    {
+     "ID": 161,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.07552,
+     "longitude": 72.87519,
+     "throughput": 9.83679
+    },
+    {
+     "ID": 162,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0730833,
+     "longitude": 72.8735394,
+     "throughput": 9.26615
+    },
+    {
+     "ID": 163,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0730833,
+     "longitude": 72.8735394,
+     "throughput": 7.83505
+    },
+    {
+     "ID": 164,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0666411,
+     "longitude": 72.8620592,
+     "throughput": 8.06807
+    },
+    {
+     "ID": 165,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0666411,
+     "longitude": 72.8620592,
+     "throughput": 6.01516
+    },
+    {
+     "ID": 166,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.06614,
+     "longitude": 72.85643,
+     "throughput": 5.3873
+    },
+    {
+     "ID": 167,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.06614,
+     "longitude": 72.85643,
+     "throughput": 9.77326
+    },
+    {
+     "ID": 168,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0744325,
+     "longitude": 72.8758894,
+     "throughput": 7.26286
+    },
+    {
+     "ID": 169,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0744325,
+     "longitude": 72.8758894,
+     "throughput": 9.26349
+    },
+    {
+     "ID": 170,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.063121,
+     "longitude": 72.86244,
+     "throughput": 8.06387
+    },
+    {
+     "ID": 171,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.063121,
+     "longitude": 72.86244,
+     "throughput": 7.97247
+    },
+    {
+     "ID": 172,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.06165,
+     "longitude": 72.86303,
+     "throughput": 8.01466
+    },
+    {
+     "ID": 173,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.06165,
+     "longitude": 72.86303,
+     "throughput": 8.18583
+    },
+    {
+     "ID": 174,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.062478,
+     "longitude": 72.863482,
+     "throughput": 9.36297
+    },
+    {
+     "ID": 175,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.062478,
+     "longitude": 72.863482,
+     "throughput": 8.27793
+    },
+    {
+     "ID": 176,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0668216,
+     "longitude": 72.8531741,
+     "throughput": 6.67247
+    },
+    {
+     "ID": 177,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0668216,
+     "longitude": 72.8531741,
+     "throughput": 6.18809
+    },
+    {
+     "ID": 178,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.06198,
+     "longitude": 72.86289,
+     "throughput": 6.10277
+    },
+    {
+     "ID": 179,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.06198,
+     "longitude": 72.86289,
+     "throughput": 5.81215
+    },
+    {
+     "ID": 180,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0692025,
+     "longitude": 72.8695408,
+     "throughput": 5.70498
+    },
+    {
+     "ID": 181,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0692025,
+     "longitude": 72.8695408,
+     "throughput": 5.45816
+    },
+    {
+     "ID": 182,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0689147,
+     "longitude": 72.8691161,
+     "throughput": 5.25524
+    },
+    {
+     "ID": 183,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0689147,
+     "longitude": 72.8691161,
+     "throughput": 7.33072
+    },
+    {
+     "ID": 184,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0607933,
+     "longitude": 72.8680702,
+     "throughput": 9.71473
+    },
+    {
+     "ID": 185,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0607933,
+     "longitude": 72.8680702,
+     "throughput": 9.82342
+    },
+    {
+     "ID": 186,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0607838,
+     "longitude": 72.8647191,
+     "throughput": 6.34962
+    },
+    {
+     "ID": 187,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0607838,
+     "longitude": 72.8647191,
+     "throughput": 6.29402
+    },
+    {
+     "ID": 188,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.061628,
+     "longitude": 72.8685325,
+     "throughput": 7.20991
+    },
+    {
+     "ID": 189,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0751175,
+     "longitude": 72.8761769,
+     "throughput": 8.20641
+    },
+    {
+     "ID": 190,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0751175,
+     "longitude": 72.8761769,
+     "throughput": 7.63953
+    },
+    {
+     "ID": 191,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0595466,
+     "longitude": 72.8650025,
+     "throughput": 6.09828
+    },
+    {
+     "ID": 192,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0595466,
+     "longitude": 72.8650025,
+     "throughput": 8.79041
+    },
+    {
+     "ID": 193,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.063289,
+     "longitude": 72.865763,
+     "throughput": 8.23475
+    },
+    {
+     "ID": 194,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.063289,
+     "longitude": 72.865763,
+     "throughput": 9.87166
+    },
+    {
+     "ID": 195,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0654691,
+     "longitude": 72.8662652,
+     "throughput": 6.56284
+    },
+    {
+     "ID": 196,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0654691,
+     "longitude": 72.8662652,
+     "throughput": 5.39139
+    },
+    {
+     "ID": 197,
+     "Band": "Band 4",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.06328,
+     "longitude": 72.86592,
+     "throughput": 9.97106
+    },
+    {
+     "ID": 198,
+     "Band": "Band 4",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.06328,
+     "longitude": 72.86592,
+     "throughput": 6.0042
+    },
+    {
+     "ID": 199,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0625247,
+     "longitude": 72.8677202,
+     "throughput": 5.57744
+    },
+    {
+     "ID": 200,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0625247,
+     "longitude": 72.8677202,
+     "throughput": 8.885
+    },
+    {
+     "ID": 201,
+     "Band": "Band 4",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.06339,
+     "longitude": 72.86681,
+     "throughput": 7.67625
+    },
+    {
+     "ID": 202,
+     "Band": "Band 4",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.06339,
+     "longitude": 72.86681,
+     "throughput": 9.57287
+    },
+    {
+     "ID": 203,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0649711,
+     "longitude": 72.8672544,
+     "throughput": 6.85654
+    },
+    {
+     "ID": 204,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0649711,
+     "longitude": 72.8672544,
+     "throughput": 5.87476
+    },
+    {
+     "ID": 205,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0654927,
+     "longitude": 72.8662816,
+     "throughput": 6.34206
+    },
+    {
+     "ID": 206,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0654927,
+     "longitude": 72.8662816,
+     "throughput": 7.52552
+    },
+    {
+     "ID": 207,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0625472,
+     "longitude": 72.8677433,
+     "throughput": 6.25413
+    },
+    {
+     "ID": 208,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0625472,
+     "longitude": 72.8677433,
+     "throughput": 6.67925
+    },
+    {
+     "ID": 209,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.06316,
+     "longitude": 72.86708,
+     "throughput": 9.90583
+    },
+    {
+     "ID": 210,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.06316,
+     "longitude": 72.86708,
+     "throughput": 6.54124
+    },
+    {
+     "ID": 211,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0630086,
+     "longitude": 72.8655319,
+     "throughput": 6.68003
+    },
+    {
+     "ID": 212,
+     "Band": "Band 3",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0630086,
+     "longitude": 72.8655319,
+     "throughput": 5.66928
+    },
+    {
+     "ID": 213,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0641413,
+     "longitude": 72.8647822,
+     "throughput": 8.57178
+    },
+    {
+     "ID": 214,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0641413,
+     "longitude": 72.8647822,
+     "throughput": 7.89588
+    },
+    {
+     "ID": 215,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0650038,
+     "longitude": 72.8638986,
+     "throughput": 6.89447
+    },
+    {
+     "ID": 216,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0650038,
+     "longitude": 72.8638986,
+     "throughput": 8.92057
+    },
+    {
+     "ID": 217,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0662202,
+     "longitude": 72.8647572,
+     "throughput": 9.09189
+    },
+    {
+     "ID": 218,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0662202,
+     "longitude": 72.8647572,
+     "throughput": 7.69356
+    },
+    {
+     "ID": 219,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.064166,
+     "longitude": 72.866812,
+     "throughput": 7.58341
+    },
+    {
+     "ID": 220,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.064166,
+     "longitude": 72.866812,
+     "throughput": 8.64127
+    },
+    {
+     "ID": 221,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.06383,
+     "longitude": 72.867049,
+     "throughput": 6.67769
+    },
+    {
+     "ID": 222,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.06383,
+     "longitude": 72.867049,
+     "throughput": 7.63072
+    },
+    {
+     "ID": 223,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0616,
+     "longitude": 72.86708,
+     "throughput": 9.65167
+    },
+    {
+     "ID": 224,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0616,
+     "longitude": 72.86708,
+     "throughput": 5.78726
+    },
+    {
+     "ID": 225,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.062874,
+     "longitude": 72.86669,
+     "throughput": 9.48431
+    },
+    {
+     "ID": 226,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.062874,
+     "longitude": 72.86669,
+     "throughput": 6.11277
+    },
+    {
+     "ID": 227,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.06286,
+     "longitude": 72.865025,
+     "throughput": 6.20055
+    },
+    {
+     "ID": 228,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.06286,
+     "longitude": 72.865025,
+     "throughput": 7.53658
+    },
+    {
+     "ID": 229,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.063754,
+     "longitude": 72.866871,
+     "throughput": 8.15285
+    },
+    {
+     "ID": 230,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.063754,
+     "longitude": 72.866871,
+     "throughput": 9.04438
+    },
+    {
+     "ID": 231,
+     "Band": "Band 2",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.062919,
+     "longitude": 72.867174,
+     "throughput": 9.79774
+    },
+    {
+     "ID": 232,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.063071,
+     "longitude": 72.86724,
+     "throughput": 5.11501
+    },
+    {
+     "ID": 233,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.063071,
+     "longitude": 72.86724,
+     "throughput": 6.50786
+    },
+    {
+     "ID": 234,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0626,
+     "longitude": 72.867299,
+     "throughput": 7.26826
+    },
+    {
+     "ID": 235,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.0626,
+     "longitude": 72.867299,
+     "throughput": 9.90718
+    },
+    {
+     "ID": 236,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.059029,
+     "longitude": 72.854938,
+     "throughput": 5.25113
+    },
+    {
+     "ID": 237,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.059029,
+     "longitude": 72.854938,
+     "throughput": 5.16867
+    },
+    {
+     "ID": 238,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.064712,
+     "longitude": 72.866697,
+     "throughput": 5.79742
+    },
+    {
+     "ID": 239,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.064712,
+     "longitude": 72.866697,
+     "throughput": 6.17643
+    },
+    {
+     "ID": 240,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.057577,
+     "longitude": 72.866132,
+     "throughput": 8.42191
+    },
+    {
+     "ID": 241,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.057577,
+     "longitude": 72.866132,
+     "throughput": 9.76823
+    },
+    {
+     "ID": 242,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.064704,
+     "longitude": 72.866688,
+     "throughput": 5.76348
+    },
+    {
+     "ID": 243,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.064704,
+     "longitude": 72.866688,
+     "throughput": 7.82956
+    },
+    {
+     "ID": 244,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.063151,
+     "longitude": 72.866,
+     "throughput": 7.37057
+    },
+    {
+     "ID": 245,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.063151,
+     "longitude": 72.866,
+     "throughput": 5.1395
+    },
+    {
+     "ID": 246,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.063919,
+     "longitude": 72.867885,
+     "throughput": 7.30915
+    },
+    {
+     "ID": 247,
+     "Band": "Band 4",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.063919,
+     "longitude": 72.867885,
+     "throughput": 6.7156
+    },
+    {
+     "ID": 248,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.075437,
+     "longitude": 72.876363,
+     "throughput": 9.53162
+    },
+    {
+     "ID": 249,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.075437,
+     "longitude": 72.876363,
+     "throughput": 6.71151
+    },
+    {
+     "ID": 250,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.041575,
+     "longitude": 73.102164,
+     "throughput": 8.10089
+    },
+    {
+     "ID": 251,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.041575,
+     "longitude": 73.102164,
+     "throughput": 9.96753
+    },
+    {
+     "ID": 252,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.063312,
+     "longitude": 72.866717,
+     "throughput": 6.25566
+    },
+    {
+     "ID": 253,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.063312,
+     "longitude": 72.866717,
+     "throughput": 8.71576
+    },
+    {
+     "ID": 254,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.063187,
+     "longitude": 72.866713,
+     "throughput": 9.16816
+    },
+    {
+     "ID": 255,
+     "Band": "Band 4",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation3",
+     "latitude": 19.063187,
+     "longitude": 72.866713,
+     "throughput": 8.29934
+    },
+    {
+     "ID": 256,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.078045,
+     "longitude": 72.849388,
+     "throughput": 7.13072
+    },
+    {
+     "ID": 257,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.078045,
+     "longitude": 72.849388,
+     "throughput": 9.39228
+    },
+    {
+     "ID": 258,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.07708,
+     "longitude": 72.86073,
+     "throughput": 6.32822
+    },
+    {
+     "ID": 259,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.07708,
+     "longitude": 72.86073,
+     "throughput": 7.84623
+    },
+    {
+     "ID": 260,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.07303,
+     "longitude": 72.86266,
+     "throughput": 9.65383
+    },
+    {
+     "ID": 261,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.07303,
+     "longitude": 72.86266,
+     "throughput": 7.69496
+    },
+    {
+     "ID": 262,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.07418,
+     "longitude": 72.86089,
+     "throughput": 9.81259
+    },
+    {
+     "ID": 263,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.07418,
+     "longitude": 72.86089,
+     "throughput": 9.2412
+    },
+    {
+     "ID": 264,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0755638,
+     "longitude": 72.8597555,
+     "throughput": 7.08747
+    },
+    {
+     "ID": 265,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0755638,
+     "longitude": 72.8597555,
+     "throughput": 7.96983
+    },
+    {
+     "ID": 266,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.07827,
+     "longitude": 72.8732042,
+     "throughput": 8.65438
+    },
+    {
+     "ID": 267,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.07827,
+     "longitude": 72.8732042,
+     "throughput": 7.13429
+    },
+    {
+     "ID": 268,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0797431,
+     "longitude": 72.8497203,
+     "throughput": 8.92066
+    },
+    {
+     "ID": 269,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0797431,
+     "longitude": 72.8497203,
+     "throughput": 6.18364
+    },
+    {
+     "ID": 270,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0798808,
+     "longitude": 72.8671013,
+     "throughput": 9.82699
+    },
+    {
+     "ID": 271,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0798808,
+     "longitude": 72.8671013,
+     "throughput": 5.05039
+    },
+    {
+     "ID": 272,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0858977,
+     "longitude": 72.846653,
+     "throughput": 6.92191
+    },
+    {
+     "ID": 273,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0858977,
+     "longitude": 72.846653,
+     "throughput": 5.04249
+    },
+    {
+     "ID": 274,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0841742,
+     "longitude": 72.8479944,
+     "throughput": 7.11996
+    },
+    {
+     "ID": 275,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0841742,
+     "longitude": 72.8479944,
+     "throughput": 8.78147
+    },
+    {
+     "ID": 276,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0777047,
+     "longitude": 72.8592633,
+     "throughput": 9.53116
+    },
+    {
+     "ID": 277,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0777047,
+     "longitude": 72.8592633,
+     "throughput": 6.15134
+    },
+    {
+     "ID": 278,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.07568,
+     "longitude": 72.85186,
+     "throughput": 9.2943
+    },
+    {
+     "ID": 279,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.07568,
+     "longitude": 72.85186,
+     "throughput": 5.80037
+    },
+    {
+     "ID": 280,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0765894,
+     "longitude": 72.864953,
+     "throughput": 8.49184
+    },
+    {
+     "ID": 281,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0765894,
+     "longitude": 72.864953,
+     "throughput": 5.15985
+    },
+    {
+     "ID": 282,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0766356,
+     "longitude": 72.8539525,
+     "throughput": 9.08765
+    },
+    {
+     "ID": 283,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0766356,
+     "longitude": 72.8539525,
+     "throughput": 6.70375
+    },
+    {
+     "ID": 284,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0783886,
+     "longitude": 72.8699691,
+     "throughput": 9.46348
+    },
+    {
+     "ID": 285,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0783886,
+     "longitude": 72.8699691,
+     "throughput": 6.54445
+    },
+    {
+     "ID": 286,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0788661,
+     "longitude": 72.854075,
+     "throughput": 9.85308
+    },
+    {
+     "ID": 287,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0788661,
+     "longitude": 72.854075,
+     "throughput": 9.52194
+    },
+    {
+     "ID": 288,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0830994,
+     "longitude": 72.8550936,
+     "throughput": 7.35799
+    },
+    {
+     "ID": 289,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0830994,
+     "longitude": 72.8550936,
+     "throughput": 8.13381
+    },
+    {
+     "ID": 290,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.07761,
+     "longitude": 72.87197,
+     "throughput": 8.69118
+    },
+    {
+     "ID": 291,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.07761,
+     "longitude": 72.87197,
+     "throughput": 7.26874
+    },
+    {
+     "ID": 292,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.08453,
+     "longitude": 72.84686,
+     "throughput": 7.86479
+    },
+    {
+     "ID": 293,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.08453,
+     "longitude": 72.84686,
+     "throughput": 8.73787
+    },
+    {
+     "ID": 294,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.07918,
+     "longitude": 72.85922,
+     "throughput": 7.78753
+    },
+    {
+     "ID": 295,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.07918,
+     "longitude": 72.85922,
+     "throughput": 8.79159
+    },
+    {
+     "ID": 296,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0751,
+     "longitude": 72.87098,
+     "throughput": 7.01645
+    },
+    {
+     "ID": 297,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0751,
+     "longitude": 72.87098,
+     "throughput": 5.76901
+    },
+    {
+     "ID": 298,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0757061,
+     "longitude": 72.8492533,
+     "throughput": 5.83
+    },
+    {
+     "ID": 299,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0757061,
+     "longitude": 72.8492533,
+     "throughput": 6.54302
+    },
+    {
+     "ID": 300,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0869666,
+     "longitude": 72.8458497,
+     "throughput": 5.51434
+    },
+    {
+     "ID": 301,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0869666,
+     "longitude": 72.8458497,
+     "throughput": 9.41297
+    },
+    {
+     "ID": 302,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0866228,
+     "longitude": 72.8545386,
+     "throughput": 6.50895
+    },
+    {
+     "ID": 303,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0866228,
+     "longitude": 72.8545386,
+     "throughput": 7.48808
+    },
+    {
+     "ID": 304,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0847994,
+     "longitude": 72.8594267,
+     "throughput": 7.40125
+    },
+    {
+     "ID": 305,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0847994,
+     "longitude": 72.8594267,
+     "throughput": 9.80714
+    },
+    {
+     "ID": 306,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0818,
+     "longitude": 72.84893,
+     "throughput": 9.797
+    },
+    {
+     "ID": 307,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0818,
+     "longitude": 72.84893,
+     "throughput": 8.64359
+    },
+    {
+     "ID": 308,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.07774,
+     "longitude": 72.85447,
+     "throughput": 8.63198
+    },
+    {
+     "ID": 309,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.07774,
+     "longitude": 72.85447,
+     "throughput": 9.27551
+    },
+    {
+     "ID": 310,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0789813,
+     "longitude": 72.8656544,
+     "throughput": 8.83407
+    },
+    {
+     "ID": 311,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0789813,
+     "longitude": 72.8656544,
+     "throughput": 6.09097
+    },
+    {
+     "ID": 312,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0764733,
+     "longitude": 72.8477319,
+     "throughput": 8.38608
+    },
+    {
+     "ID": 313,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0764733,
+     "longitude": 72.8477319,
+     "throughput": 8.03675
+    },
+    {
+     "ID": 314,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0761987,
+     "longitude": 72.8708635,
+     "throughput": 8.27454
+    },
+    {
+     "ID": 315,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0761987,
+     "longitude": 72.8708635,
+     "throughput": 8.76575
+    },
+    {
+     "ID": 316,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.07728,
+     "longitude": 72.86601,
+     "throughput": 6.07216
+    },
+    {
+     "ID": 317,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.07728,
+     "longitude": 72.86601,
+     "throughput": 7.63213
+    },
+    {
+     "ID": 318,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.07965,
+     "longitude": 72.86421,
+     "throughput": 8.09023
+    },
+    {
+     "ID": 319,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.07965,
+     "longitude": 72.86421,
+     "throughput": 9.34498
+    },
+    {
+     "ID": 320,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.07465,
+     "longitude": 72.86661,
+     "throughput": 5.75749
+    },
+    {
+     "ID": 321,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.07465,
+     "longitude": 72.86661,
+     "throughput": 8.1723
+    },
+    {
+     "ID": 322,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.08151,
+     "longitude": 72.85681,
+     "throughput": 9.0771
+    },
+    {
+     "ID": 323,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.08151,
+     "longitude": 72.85681,
+     "throughput": 7.36087
+    },
+    {
+     "ID": 324,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.07198,
+     "longitude": 72.86175,
+     "throughput": 9.13264
+    },
+    {
+     "ID": 325,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.07198,
+     "longitude": 72.86175,
+     "throughput": 7.93593
+    },
+    {
+     "ID": 326,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0794966,
+     "longitude": 72.8677877,
+     "throughput": 7.12986
+    },
+    {
+     "ID": 327,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0794966,
+     "longitude": 72.8677877,
+     "throughput": 7.80853
+    },
+    {
+     "ID": 328,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.07891,
+     "longitude": 72.8580213,
+     "throughput": 7.67404
+    },
+    {
+     "ID": 329,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.07891,
+     "longitude": 72.8580213,
+     "throughput": 5.96752
+    },
+    {
+     "ID": 330,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0747014,
+     "longitude": 72.8695108,
+     "throughput": 9.90042
+    },
+    {
+     "ID": 331,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0747014,
+     "longitude": 72.8695108,
+     "throughput": 7.92559
+    },
+    {
+     "ID": 332,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0856814,
+     "longitude": 72.8538547,
+     "throughput": 8.85041
+    },
+    {
+     "ID": 333,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0856814,
+     "longitude": 72.8538547,
+     "throughput": 7.55776
+    },
+    {
+     "ID": 334,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0823919,
+     "longitude": 72.8466456,
+     "throughput": 8.13622
+    },
+    {
+     "ID": 335,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0823919,
+     "longitude": 72.8466456,
+     "throughput": 5.02253
+    },
+    {
+     "ID": 336,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0867989,
+     "longitude": 72.8448231,
+     "throughput": 9.84525
+    },
+    {
+     "ID": 337,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0867989,
+     "longitude": 72.8448231,
+     "throughput": 8.67897
+    },
+    {
+     "ID": 338,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.082283,
+     "longitude": 72.8668177,
+     "throughput": 5.25329
+    },
+    {
+     "ID": 339,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.082283,
+     "longitude": 72.8668177,
+     "throughput": 7.19261
+    },
+    {
+     "ID": 340,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0809027,
+     "longitude": 72.8520908,
+     "throughput": 7.31115
+    },
+    {
+     "ID": 341,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0809027,
+     "longitude": 72.8520908,
+     "throughput": 8.35034
+    },
+    {
+     "ID": 342,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0761511,
+     "longitude": 72.8507988,
+     "throughput": 8.9458
+    },
+    {
+     "ID": 343,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0761511,
+     "longitude": 72.8507988,
+     "throughput": 6.48005
+    },
+    {
+     "ID": 344,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.07798,
+     "longitude": 72.850837,
+     "throughput": 9.88824
+    },
+    {
+     "ID": 345,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.07798,
+     "longitude": 72.850837,
+     "throughput": 7.29702
+    },
+    {
+     "ID": 346,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0811625,
+     "longitude": 72.8606516,
+     "throughput": 6.43913
+    },
+    {
+     "ID": 347,
+     "Band": "Band 1",
+     "data_date": "07/27/2023",
+     "Location": "MainLocation",
+     "SubLocation": "SubLocation4",
+     "latitude": 19.0811625,
+     "longitude": 72.8606516,
+     "throughput": 8.54034
+    }
+   ]
